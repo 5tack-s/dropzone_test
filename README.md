@@ -8,11 +8,15 @@ After an image is placed, you can click on it to open a popup menu and delete it
 
 ## Running
 Clone this repository:
-`aaaa`
+`https://github.com/5tack-s/dropzone_test`
 
 Open site/ and run the following:
-`npm i`
-`npm run dev`
+```
+npm i
+```
+```
+npm run dev
+```
 
 
 
